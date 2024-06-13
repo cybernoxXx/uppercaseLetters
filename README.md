@@ -1,0 +1,1 @@
+Transform any lowercase letters into uppercase letters.
